@@ -1,0 +1,14 @@
+bin/*
+
+caches/upgrade/*
+
+caches/content/*
+
+.svn/*
+
+caches/db_bak/*
+
+caches/templates/default/*
+caches/templates/t2/*
+caches/templates/t3/*
+www/xinwen/*
